@@ -4,3 +4,4 @@
 3-listfiles: List files in long format
 4-listmorefiles: List hidden files
 5-listfilesdigitonly: list files with uid
+6-firstdirectory: create directory
