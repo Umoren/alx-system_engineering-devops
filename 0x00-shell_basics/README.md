@@ -14,3 +14,4 @@
 13-symbolic-link: create symbolic link
 14-copy-html: copy and don't overwrite an existing file
 100-lets-move: move files with uppercase letters
+101-clean-emacs: delte all emacs files
