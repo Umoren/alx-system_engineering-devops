@@ -5,3 +5,4 @@
 4-listmorefiles: List hidden files
 5-listfilesdigitonly: list files with uid
 6-firstdirectory: create directory
+7-movethatfile: move files
