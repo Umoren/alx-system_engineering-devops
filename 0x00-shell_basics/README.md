@@ -2,3 +2,4 @@
 1-listit: List all files
 2-bring-me-home: Navigate to home directory
 3-listfiles: List files in long format
+4-listmorefiles: List hidden files
