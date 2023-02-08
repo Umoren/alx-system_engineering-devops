@@ -10,3 +10,4 @@
 9-firstdirdeletion: delete directory
 10-back: go back to previous directory
 11-lists: lists
+12-file-type: print file type
