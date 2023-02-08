@@ -11,3 +11,4 @@
 10-back: go back to previous directory
 11-lists: lists
 12-file-type: print file type
+13-symbolic-link: create symbolic link
