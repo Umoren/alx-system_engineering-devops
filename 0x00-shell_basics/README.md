@@ -13,3 +13,4 @@
 12-file-type: print file type
 13-symbolic-link: create symbolic link
 14-copy-html: copy and don't overwrite an existing file
+100-lets-move: move files with uppercase letters
