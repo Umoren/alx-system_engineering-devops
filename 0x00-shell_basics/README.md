@@ -15,3 +15,4 @@
 14-copy-html: copy and don't overwrite an existing file
 100-lets-move: move files with uppercase letters
 101-clean-emacs: delte all emacs files
+102-tree: create multiple directories
