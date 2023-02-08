@@ -9,3 +9,4 @@
 8-firstdelete: delete files
 9-firstdirdeletion: delete directory
 10-back: go back to previous directory
+11-lists: lists
