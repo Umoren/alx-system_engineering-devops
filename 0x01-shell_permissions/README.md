@@ -6,3 +6,4 @@ Description for the scripts:
 4-empty: creates empty file
 5-execute: adds execute permission to file owner
 6-multiple-permissions: multiple permissions
+7-everybody: permission to everyone
