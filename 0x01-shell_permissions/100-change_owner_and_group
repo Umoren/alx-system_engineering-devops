@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -R --from=vincent:staff .
+chown -R --from=vincent:staff .
