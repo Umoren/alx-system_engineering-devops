@@ -7,3 +7,4 @@ Description for the scripts:
 5-execute: adds execute permission to file owner
 6-multiple-permissions: multiple permissions
 7-everybody: permission to everyone
+8-James-Bond: permission to other users only
